@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MeritTrac-MOMS">
+
+ <test name="MOMS Automation">
+
+ <classes>
+  	<class name="testScenario.SourcingTestScenario" />
+ </classes>
+
+ </test>
+
+ </suite>
